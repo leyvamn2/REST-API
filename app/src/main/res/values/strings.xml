@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">REST_APP</string>
+    <string name="consultar">Consultar</string>
+    <string name="regresar">Regresar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="body">Body:</string>
+    <string name="enviar">Enviar</string>
+    <string name="user_id">User Id:</string>
+</resources>
